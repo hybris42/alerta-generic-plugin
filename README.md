@@ -1,0 +1,2 @@
+# alerta-generic-plugin
+Alerta
